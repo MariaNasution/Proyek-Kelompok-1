@@ -1,15 +1,5 @@
 # Proyek Bersama Informatika
 
-| NIM      | Nama              | username         |
-| -------- | ----------------- | ---------------- |
-| 11S22005 | Olga Frischila G  | ---------------- |
-| 11S22020 | Maria Nasution    | MariaNasution    |
-| 11S22035 | Glen Pardede      | glensofian       |
-| 11S22036 | Rohit Panjaitan   | mitsuha19        |
-| 11S22043 | Esra Silaen       | esramrsln        |
-| 11S22047 | Okdini Hutagalung | okdinihutagalung |
-| 11S22053 | Tabita Sinaga     | ---------------- |
-
 # Cara Penggunaan :
 
 1. Silahkan Clone dan install composer
